@@ -25,7 +25,7 @@
          },
          "text":{
          "title":"Dainzú",
-         "Description":"Sitio arqueologico",
+         "description":"Sitio arqueologico",
          "footnote":"10:00-15:00  Lunes-Domingo"
          },
          "imageURL":"http://julia-tareaito.rhcloud.com/dainzu.jpg"
@@ -40,7 +40,7 @@
          },
          "text":{
          "title":"Lambityeco",
-         "Description":"Sitio arqueologico",
+         "description":"Sitio arqueologico",
          "footnote":"8:00-17:00  Lunes-Domingo"
          },
          "imageURL":"http://julia-tareaito.rhcloud.com/lambiyteco.jpg"
