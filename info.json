@@ -1,84 +1,88 @@
 ﻿{
    "hotspots":[
       {
-         "id":"provedora",
+         "id":"Montealban",
          "anchor":{
             "geolocation":{
-               "lat":17.061540,
-               "lon":-96.722583
+               "lat":17.046309,
+               "lon":-96.7660448
+               ,
             }
             },
             "text":{
-            "title":"Provedora Escolar",
-            "description":"Ing de Software Somerville 9",
-            "footnote":"9:00 - 20:00, Lunes - Sabado"
+            "title":"Monte Alban",
+            "description":"Sitio arqueologico",
+            "footnote":"9:00 - 17:00, Lunes-Domingo"
             },
-            "imageURL":"http://farm8.staticflickr.com/7048/6988523505_8b711d65a6.jpg"
+            "imageURL":"https://drive.google.com/open?id=0B7FTOk3aA5m-eVpXdnZpSHVSNU0"
       },
       {
-         "id":"bibioITO",
+         "id":"Dainzú",
          "anchor":{
             "geolocation":{
-            "lat":17.077588,
-            "lon":-96.744238
+            "lat":17.003668,
+            "lon":-96.556494
+            , 
             }
          },
          "text":{
-         "title":"Biblioteca Del ITO",
-         "Description":"Libro de Ingenieria de software Somerville 9",
-         "footnote":"8:00-19:00  Lunes-Viernes"
+         "title":"Dainzú",
+         "Description":"Sitio arqueologico",
+         "footnote":"10:00-15:00  Lunes-Domingo"
          },
-         "imageURL":"http://poligrafodigital.com/wp-content/uploads/2015/08/tec-450x300.jpg"
+         "imageURL":"https://drive.google.com/open?id=0B7FTOk3aA5m-UnVKNzFrZjhnZGc"
       },
       {
-         "id":"biblioCentral",
+         "id":"Lambityeco",
          "anchor":{
             "geolocation":{
-               "lat":17.062908,
-               "lon":-96.724290
+               "lat":16.971783,
+               "lon":-96.492149
+               , 
             }
          },
          "text":{
-         "title":"Biblioteca Publica Central Margarita Maza de Juarez",
-         "Description":"Ingenieria de software Roger Pressman",
-         "footnote":"16:00-20:00  Lunes-Viernes"
+         "title":"Lambityeco",
+         "Description":"Sitio arqueologico",
+         "footnote":"8:00-17:00  Lunes-Domingo"
          },
-         "imageURL":"http://www.travelbymexico.com/oaxaatr/oaxa4651RJE.jpg"
+         "imageURL":"https://drive.google.com/open?id=0B7FTOk3aA5m-NlEzS05zY1lFbkE"
       },
       {
-         "id":"iago",
+         "id":"Yagul",
          "anchor":{
             "geolocation":{
-               "lat":17.066380,
-               "lon":-96.723714
+               "lat":16.958560,
+               "lon":-96.449664
+               , 
             }
          },
          "text":{
-            "title":"Instituto de Artes Graficas de Oaxaca",
-            "description":"libro de Ingenieria de Software Somerville 9",
-            "footnote":"17:00 - 22:00"
+            "title":"Yagul",
+            "description":"Sitio arqueologico",
+            "footnote":"8:00-17:00  Lunes-Domingo"
+         },
+         "imageURL":"https://drive.google.com/open?id=0B7FTOk3aA5m-RWJFRVI0ME5TQmM"
+      },
+      {
+         "id":"Mitla",
+         "anchor":{
+            "geolocation":{
+               "lat":16.927243,
+               "lon":-96.359527
+               , 
+            }
+         },
+         "text":{
+            "title":"Mitla",
+            "description":"Sitio arqueologico",
+            "footnote":"8:00-17:00  Lunes-Domingo"
          },
 
-         "imageURL":"http://www.mexicoescultura.com/galerias/espacios/principal/iago001.jpg"
-      },
-      {
-         "id":"cuboDrLimon",
-         "anchor":{
-            "geolocation":{
-               "lat":17.076042,
-               "lon":-96.744799
-            }
-         },
-         "text":{
-            "title":"Cubiculo Dr. Limon",
-            "description":"Ing de Software Somerville,Pressman,Java",
-            "footnote":""
-         },
-
-         "imageURL":"http://www.itoaxaca.edu.mx/web/wp-content/uploads/2015/12/premio-odbmx.jpeg"
+         "imageURL":"https://drive.google.com/open?id=0B7FTOk3aA5m-b1dCNGVqcWpVLXc"
       }
    ],
-   "layer":"ingdesoftwarl6ny",
+   "layer":"zonasarqueolnm7b",
    "errorString":"ok",
    "errorCode":0
 }
